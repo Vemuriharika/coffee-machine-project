@@ -95,29 +95,6 @@ Handles all payment-related operations, including:
 8. Update the total profit.
 
 
-
-## How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/coffee-machine.git
-
-
-### Navigate to the Project Directory
-
-```bash
-cd coffee-machine
-
-
-### Run the Application
-
-```bash
-python main.py
-
-
-
-
 ## Sample Execution
 
 
@@ -179,9 +156,3 @@ Potential improvements include:
 ## Conclusion
 
 The Coffee Machine Simulator provides a practical implementation of Object-Oriented Programming concepts while simulating the core functionality of an automated coffee vending machine. The project emphasizes modular design, maintainability, and clean code practices, making it an excellent learning project for Python developers interested in building interactive console applications.
-
-
-
-## License
-
-This project is intended for educational and learning purposes. You are welcome to use, modify, and extend the project for personal or academic use.
