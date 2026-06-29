@@ -30,11 +30,17 @@ This project demonstrates modular programming, clean code organization, and the 
 ## Project Structure
 
 coffee-machine/
+
 │
+
 ├── main.py              # Application entry point
+
 ├── menu.py              # Menu and MenuItem classes
+
 ├── coffee_maker.py      # CoffeeMaker class for resource management
+
 ├── money_machine.py     # MoneyMachine class for payment processing
+
 └── README.md            # Project documentation
 
 
@@ -101,12 +107,17 @@ Handles all payment-related operations, including:
 What would you like? (latte/espresso/cappuccino): latte
 
 Please insert coins.
+
 How many quarters?: 10
+
 How many dimes?: 0
+
 How many nickles?: 0
+
 How many pennies?: 0
 
 Here is $0.00 in change.
+
 Here is your latte ☕️. Enjoy!
 
 
