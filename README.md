@@ -29,7 +29,7 @@ This project demonstrates modular programming, clean code organization, and the 
 
 ## Project Structure
 
-coffee-machine/
+coffee-machine-project/
 
 │
 
